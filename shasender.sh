@@ -2,7 +2,7 @@
 #Made by R-D-Y
 
 
-# Servers list
+# Servers list > you can change with your own path 
 mapfile -t servers < /root/scripts/servers.txt
 
 # Log File > you can change with your own path 
